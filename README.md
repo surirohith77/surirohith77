@@ -1,95 +1,210 @@
-# Hi there, I'm Sai Rohith 👋
+<div align="center">
 
-**Senior Android Engineer | Backend & Cloud Infrastructure | 6+ Years Shipping Production Apps**
+# Hi 👋, I'm Sai Rohith Suri
 
-Android specialist who expanded into backend systems and cloud infrastructure. I own complete features end-to-end—from Kotlin mobile apps to Python APIs to AWS/Azure deployments. I speak multiple languages (Kotlin, Python, infrastructure) and understand tradeoffs between client, server, and cloud.
+### Senior Android Engineer | Kotlin | Java | Jetpack Compose | Python | FastAPI
 
----
+Building scalable Android applications with modern architecture and production-ready backend systems.
 
-## 🔧 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](<your-linkedin-url>)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:surirohith77@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/surirohith77?style=for-the-badge&logo=github)](https://github.com/surirohith77)
 
-### 📱 Android Development
-- Native Android in **Kotlin** with modern architecture (MVVM, Clean Architecture, Jetpack Compose)
-- Published **4 production apps** on Google Play Store with **50K+ users**
-- Expertise in Jetpack libraries, dependency injection (Hilt), async patterns (Coroutines)
-- Performance optimization and mentoring junior engineers
-
-### ☁️ Cloud & Infrastructure
-- Deployment on **AWS** (EC2, S3, RDS, CloudFront) and **Azure** (App Service, SQL Database)
-- Containerization with **Docker** and orchestration with **Kubernetes**
-- CI/CD pipeline automation (**GitHub Actions**, reducing deployment time by **60%**)
-- Infrastructure as Code with **Terraform** for scalable deployments
-
-### 🚀 Backend Systems
-- RESTful API design using **Python** (FastAPI, Django)
-- Database optimization (**PostgreSQL**, query performance, schema design)
-- Built microservices handling **10K+ concurrent requests** with **99.9% uptime**
-- API integration and mobile-backend synchronization
+</div>
 
 ---
 
-## 💼 Featured Projects
+# 👨‍💻 About Me
 
-### CareSpace AI
-**AI-powered healthcare platform** | Python + Kotlin + Firebase | 50K+ users  
-Designed assessments using computer vision, integrated REST APIs, Firebase services, and posture analysis.
+Senior Android Engineer with **6+ years** of experience designing, developing, and delivering production Android applications using **Kotlin, Java, Jetpack Compose, MVVM, and Clean Architecture**.
 
-### SAWIN MobileTech
-**Mobile workforce management** | Kotlin + MVVM + Payment Integration  
-Field technician dispatch tracking, job management, invoicing, and electronic workflows.
+I've built scalable mobile applications across healthcare, workforce management, and enterprise domains, focusing on performance, maintainability, and exceptional user experiences.
 
-### Fleet Management System
-**Mining operations tracking** | Kotlin + Google Maps + Offline Sync  
-Workforce scheduling, production tracking, and offline-first architecture for low-connectivity environments.
+Alongside Android development, I also build backend services using **Python, FastAPI, and Django**, allowing me to deliver complete end-to-end software solutions.
 
 ---
 
-## 📊 Tech Stack
+# 🚀 Tech Stack
 
-**Languages:** Kotlin, Python, Java, SQL  
-**Android:** Jetpack Compose, MVVM, Clean Architecture, Coroutines, Hilt, Firebase  
-**Backend:** FastAPI, Django, PostgreSQL, Microservices  
-**Cloud:** AWS (EC2, S3, RDS, CloudFront), Azure, Docker, Kubernetes, Terraform  
-**DevOps:** GitHub Actions, CI/CD, Infrastructure as Code  
-**Databases:** PostgreSQL, SQLite, Room, MySQL  
-**Tools:** Android Studio, Git, Jira, Postman, Visual Studio Code
+## 📱 Android
 
----
+<p>
 
-## 🎯 Open To
+<img src="https://skillicons.dev/icons?i=kotlin,java,firebase,gradle"/>
 
-✅ **Senior Android Engineer** — Core strength, deepening Jetpack expertise  
-✅ **Backend Engineer** — 6+ years of systems thinking  
-✅ **Cloud/DevOps/Platform Engineer** — Growing specialty  
+</p>
 
-**Location:** Toronto, ON | Remote or Onsite
-
----
-
-## 🌱 Currently Exploring
-
-- Cross-platform development (Flutter, React Native)
-- AI integration in mobile apps
-- Microservices architecture patterns
-- Performance optimization at scale
-
----
-
-## 💡 About Me
-
-Fast learner who thrives in collaborative environments. I enjoy mentoring junior engineers and writing clean, maintainable code. I believe in shipping quality software iteratively and taking ownership of my work end-to-end.
+- Jetpack Compose
+- Android SDK
+- MVVM
+- Clean Architecture
+- Kotlin Coroutines
+- Hilt
+- Dependency Injection
+- Navigation Component
+- Paging 3
+- Room Database
+- WorkManager
+- CameraX
+- Media3 (ExoPlayer)
+- DataStore
+- Retrofit
+- OkHttp
+- XML
+- ConstraintLayout
+- Material Design
+- Google Play Console
 
 ---
 
-## 📫 Let's Connect
+## 🐍 Backend
 
-- **LinkedIn:** [Sai Rohith Suri](https://linkedin.com/in/sai-rohith-suri-46a793111)
-- **Email:** surirohith77@gmail.com
-- **GitHub:** [@surirohith77](https://github.com/surirohith77)
+<p>
 
-Feel free to reach out if you're hiring for any of these roles or want to discuss backend challenges, mobile architecture, or cloud strategies.
+<img src="https://skillicons.dev/icons?i=python,django,postgres"/>
+
+</p>
+
+- FastAPI
+- Django REST Framework
+- REST APIs
+- PostgreSQL
+- Microservices
 
 ---
 
-*Last updated: July 2026*
+## 🛠 Tools
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman"/>
+
+</p>
+
+- Jira
+- Agile Scrum
+- Software Architecture
+- SOLID Principles
+- Design Patterns
+
+---
+
+# 💼 Professional Experience
+
+## 🏥 CareSpace
+
+Enterprise healthcare platform focused on posture and movement assessment.
+
+### Contributions
+
+- Developed Android features using Kotlin and modern Android architecture.
+- Implemented CameraX-based posture assessment.
+- Integrated Firebase services and REST APIs.
+- Improved application performance and stability.
+- Collaborated with backend teams to deliver end-to-end features.
+
+---
+
+## 🚚 SAWIN MobileTech
+
+Enterprise workforce management application.
+
+### Contributions
+
+- Built Android modules using Kotlin and MVVM.
+- Developed workforce scheduling and job management features.
+- Integrated payment workflows and backend APIs.
+- Improved offline synchronization and performance.
+
+---
+
+## ⛏ Fleet Management System
+
+Enterprise Android application for mining operations.
+
+### Contributions
+
+- Google Maps integration.
+- Offline-first architecture.
+- Workforce scheduling.
+- Performance optimization.
+- REST API integration.
+
+---
+
+# 📂 Personal Projects
+
+🚧 Currently building modern Android and backend projects.
+
+### Featured
+
+- 📱 Clean Architecture Android with Jetpack Compose
+- 📷 Posture Movement Tracker
+- 🐍 FastAPI Backend
+- 🏗 Android Architecture Samples
+
+More projects coming soon...
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=surirohith77&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surirohith77&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Jetpack Compose
+- Android Performance Optimization
+- FastAPI Best Practices
+- Scalable Android Architecture
+
+---
+
+# 💬 Ask Me About
+
+- Android Development
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Clean Architecture
+- FastAPI
+- Django
+- REST APIs
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="<your-linkedin-url>">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:surirohith77@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/surirohith77">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*Always open to collaborating on Android, Kotlin, and Python backend projects.*
+
+</div>
