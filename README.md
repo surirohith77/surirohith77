@@ -31,17 +31,18 @@ Building scalable Android applications with modern architecture and production-r
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=surirohith77&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surirohith77&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surirohith77&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&hide=issues"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surirohith77&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=surirohith77&theme=transparent&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=surirohith77&theme=transparent&hide_border=true"/>
+## 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surirohith77&theme=github-compact&hide_border=true"/>
 </p>
 
 ------------------------------------------------------------------------
