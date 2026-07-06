@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/banner.png" alt="Sai Rohith Suri Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Sai Rohith Suri
