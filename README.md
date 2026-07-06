@@ -1,15 +1,26 @@
-::: {align="center"}
-# Hi 👋, I'm Sai Rohith Suri
+<div align="center">
 
-### Senior Android Engineer \| Kotlin \| Java \| Jetpack Compose \| Python \| FastAPI
+# 👋 Hi, I'm Sai Rohith Suri
 
-Building scalable Android applications with modern architecture and
-production-ready backend systems.
+### Senior Android Engineer | Kotlin | Java | Jetpack Compose | Python | FastAPI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-rohith-suri-46a793111)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:surirohith77@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-surirohith77-black?style=for-the-badge&logo=github)](https://github.com/surirohith77)
-:::
+Building scalable Android applications with modern architecture and production-ready backend systems.
+
+<p>
+<a href="https://www.linkedin.com/in/sai-rohith-suri-46a793111">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:surirohith77@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/surirohith77">
+<img src="https://img.shields.io/badge/GitHub-surirohith77-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</div>
 
 ------------------------------------------------------------------------
 
