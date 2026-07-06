@@ -24,6 +24,24 @@ Building scalable Android applications with modern architecture and production-r
 
 ------------------------------------------------------------------------
 
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=surirohith77&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surirohith77&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=surirohith77&theme=transparent&hide_border=true"/>
+
+</p>
+
+------------------------------------------------------------------------
+
 # 👨‍💻 About Me
 
 Senior Android Engineer with **6+ years** of experience building
