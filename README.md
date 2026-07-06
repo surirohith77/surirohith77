@@ -181,8 +181,8 @@ Performance optimization.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### ⭐ Thanks for visiting my profile!
 
 **Always open to collaborating on Android and Python backend projects.**
-:::
+
