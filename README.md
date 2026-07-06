@@ -42,19 +42,14 @@ Building scalable Android applications with modern architecture and production-r
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Senior Android Engineer with **6+ years** of experience building
-production Android applications using **Kotlin, Java, Jetpack Compose,
-MVVM, and Clean Architecture**.
+Senior Android Engineer with **6+ years of experience** building production Android applications using **Kotlin, Java, Jetpack Compose, MVVM, and Clean Architecture**.
 
-I have developed scalable mobile applications across healthcare,
-workforce management, and enterprise domains with a strong focus on
-performance, maintainability, and user experience.
+I specialize in designing scalable, maintainable, and high-performance Android applications across healthcare, workforce management, and enterprise domains.
 
-Alongside Android development, I build backend services using **Python,
-FastAPI, and Django**, enabling me to deliver complete end-to-end
-software solutions.
+Alongside Android development, I also build backend services using **Python, FastAPI, and Django**, enabling me to deliver complete end-to-end software solutions.
+
 
 ------------------------------------------------------------------------
 
