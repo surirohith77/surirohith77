@@ -158,20 +158,6 @@ Performance optimization.
 -   🐍 FastAPI Backend
 -   🏗 Modern Android Architecture Samples
 
-------------------------------------------------------------------------
-
-# 📊 GitHub Metrics
-
-> Replace `YOUR_USERNAME` below if you ever change your username.
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=surirohith77&show_icons=true&theme=transparent&hide_border=true)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surirohith77&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub
-Streak](https://streak-stats.demolab.com?user=surirohith77&theme=transparent&hide_border=true)
 
 ------------------------------------------------------------------------
 
