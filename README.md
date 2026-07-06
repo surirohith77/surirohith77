@@ -152,7 +152,7 @@ Performance optimization.
 
 # 📂 Featured Personal Projects
 
-<a href="https://github.com/surirohith77/clean-architecture-android-compose">
+<!-- <a href="https://github.com/surirohith77/clean-architecture-android-compose">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=surirohith77&repo=clean-architecture-android-compose&theme=transparent"/>
 
 </a>
@@ -160,8 +160,10 @@ Performance optimization.
 <a href="https://github.com/surirohith77/posture-movement-tracker-android">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=surirohith77&repo=posture-movement-tracker-android&theme=transparent"/>
 
-</a>
+</a> -->
 
+-   📱 Clean Architecture Android Compose
+-   📷 Posture Movement Tracker
 -   🐍 FastAPI Backend
 -   🏗 Modern Android Architecture Samples
 
