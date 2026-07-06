@@ -179,12 +179,12 @@ Performance optimization.
 
 ------------------------------------------------------------------------
 
-# 🌱 Currently Learning
+## 🌱 Currently Exploring
 
--   Advanced Jetpack Compose
--   Android Performance Optimization
--   FastAPI Best Practices
--   Scalable Android Architecture
+- React Native
+- AI & LLM Integration for Mobile Apps
+- Cloud Technologies (AWS & Azure)
+- Modern Backend Development with Python & FastAPI
 
 ------------------------------------------------------------------------
 
