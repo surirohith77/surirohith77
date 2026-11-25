@@ -1,14 +1,14 @@
  <p align="center">
-  <img src="./images/Sai Rohith Suri — AI Engineer Banner.png" alt="Sai Rohith Suri Banner" width="100%" />
+  <img src="./images/Sai Rohith Suri — AI Engineer Banner.png" alt="Sai Rohith Suri - AI Engineer" width="100%" />
 </p>
 
 <div align="center">
 
 # 👋 Hi, I'm Sai Rohith Suri
 
-### AI Engineer | Software Engineer | Machine Learning | Generative AI | Application Development
+### AI Engineer | Machine Learning | Deep Learning | NLP | Computer Vision | Generative AI
 
-Building intelligent applications by combining AI/ML, Generative AI, backend engineering, and mobile application development.
+Building intelligent systems through applied AI, machine learning, and production-ready AI engineering.
 
 <p>
 <a href="https://www.linkedin.com/in/sai-rohith-suri-46a793111">
@@ -28,19 +28,21 @@ Building intelligent applications by combining AI/ML, Generative AI, backend eng
 
 ## 👨‍💻 About Me
 
-AI Engineer and Software Developer with **6+ years of software engineering experience** across Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Generative AI, and application development.
+AI Engineer with **6+ years of software engineering experience**, building and deploying applied AI systems across **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Generative AI, and LLM applications**.
 
-I enjoy building intelligent, scalable applications that solve real-world problems by combining AI capabilities with reliable software engineering.
+Experienced in developing intelligent solutions, training and evaluating machine learning models, building RAG pipelines, implementing AI agents, and deploying scalable AI services across AWS and Azure.
 
-My experience spans:
+My engineering focus includes:
 
-- 🤖 **Artificial Intelligence & Machine Learning:** Developing AI-powered solutions using Python, machine learning, deep learning, NLP, and computer vision.
-- 🧠 **Generative AI:** Building LLM-powered applications, Retrieval-Augmented Generation (RAG) workflows, embeddings, semantic search, and AI agent integrations.
-- 🐍 **Backend Engineering:** Developing APIs, backend services, and application architectures using Python, FastAPI, Django, and PostgreSQL.
-- 📱 **Application Development:** Building production Android applications using Kotlin, Java, Jetpack Compose, MVVM, and Clean Architecture.
-- ☁️ **Cloud & Deployment:** Working with cloud platforms, containerization, APIs, and application deployment.
+- 🤖 **Artificial Intelligence & Machine Learning:** Model development, training, evaluation, classification, prediction, and inference.
+- 🧠 **Deep Learning:** PyTorch, TensorFlow, neural networks, and model optimization.
+- 🗣️ **Natural Language Processing:** Text classification, embeddings, semantic search, document processing, and information retrieval.
+- 👁️ **Computer Vision:** OpenCV, MediaPipe, pose estimation, image processing, and real-time video analysis.
+- ✨ **Generative AI & LLMs:** RAG, AI agents, agentic workflows, LLM integration, fine-tuning, and conversational AI.
+- ⚙️ **MLOps & AI Deployment:** Model serving, evaluation, monitoring, Docker, Kubernetes, MLflow, and CI/CD.
+- ☁️ **Cloud AI Engineering:** AWS, Azure, infrastructure automation, and production deployments.
 
-I have worked across AI engineering and application development within the same projects, contributing to both intelligent capabilities and the software systems that deliver them.
+I enjoy working across the complete AI engineering lifecycle, from data preparation and model development to API integration, deployment, evaluation, and optimization.
 
 ---
 
@@ -50,21 +52,51 @@ I have worked across AI engineering and application development within the same 
 
 - Artificial Intelligence (AI)
 - Machine Learning (ML)
+- Supervised and Unsupervised Learning
+- Classification and Regression
+- Predictive Modeling
+- Model Training and Evaluation
+- Feature Engineering
 - Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Model Integration and Inference
-- Data Processing and Analysis
-- Python
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- XGBoost
 - NumPy
 - Pandas
-- Scikit-learn
-- TensorFlow
-- PyTorch
+- Python
+- SQL
+
+## 🧠 Deep Learning & Computer Vision
+
+- Neural Networks
+- Computer Vision
+- Image Processing
 - OpenCV
 - MediaPipe
+- Pose Estimation
+- Real-Time Video Analysis
+- TensorFlow Lite
+- On-Device Inference
+- Model Optimization
 
-## 🧠 Generative AI & LLM Engineering
+## 🗣️ Natural Language Processing & Information Retrieval
+
+- Natural Language Processing (NLP)
+- Text Classification
+- Document Processing
+- Text Embeddings
+- Semantic Search
+- Hybrid Search
+- BM25
+- Cross-Encoder Reranking
+- Vector Databases
+- pgvector
+- FAISS
+- Pinecone
+- Elasticsearch
+
+## ✨ Generative AI & LLM Engineering
 
 - Generative AI
 - Large Language Models (LLMs)
@@ -72,149 +104,148 @@ I have worked across AI engineering and application development within the same 
 - AI Agents
 - Agentic Workflows
 - Prompt Engineering
-- Embeddings
-- Semantic Search
+- LLM Application Development
+- Model Fine-Tuning
+- LoRA / PEFT
+- Model Context Protocol (MCP)
+- Conversational AI
+- Hugging Face Transformers
+- vLLM
 - LangChain
 - LangGraph
 - OpenAI API
 - Azure OpenAI
-- Vector Databases
-- FAISS
-- pgvector
-- Pinecone
-- Elasticsearch
+- Anthropic Claude
+- Amazon Bedrock
 
-## 🐍 Backend & API Development
+## 📊 AI Evaluation, Observability & Security
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+- LLM Evaluation
+- Model Evaluation
+- Ragas
+- DeepEval
+- LangSmith
+- Langfuse
+- Model Monitoring
+- Hallucination Evaluation
+- Prompt Injection Defense
+- PII Protection
+- AI Guardrails
+
+## ⚙️ Data Engineering & MLOps
+
+- Apache Spark
+- Apache Airflow
+- ETL Pipelines
+- Data Preprocessing
+- MLflow
+- LLMOps
+- CI/CD for Machine Learning
+- Model Serving
+- Model Deployment
+- Docker
+- Kubernetes
+- GitHub Actions
+- Terraform
+
+## 🐍 Backend Engineering & APIs
 
 - Python
 - FastAPI
 - Django
-- Django REST Framework
-- RESTful API Development
-- PostgreSQL
-- SQL
-- Redis
+- REST API Development
 - Microservices
-- Backend Architecture
+- PostgreSQL
+- Redis
+- SQL
+- Systems Design
 
-## 📱 Mobile & Application Development
+## ☁️ Cloud & Infrastructure
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat)
-
-- Kotlin
-- Java
-- Android SDK
-- Jetpack Compose
-- MVVM
-- Clean Architecture
-- Kotlin Coroutines
-- Hilt and Dependency Injection
-- Android Jetpack
-- Room Database
-- Navigation Component
-- WorkManager
-- CameraX
-- Media3 / ExoPlayer
-- Retrofit
-- OkHttp
-- Firebase
-- REST API Integration
-
-## ☁️ Cloud, DevOps & Tools
-
-- AWS
+- Amazon Web Services (AWS)
 - Microsoft Azure
+- Azure App Services
+- Azure Container Apps
+- Azure OpenAI
 - Docker
+- Kubernetes
+- Terraform
+- Linux
 - Git
 - GitHub
-- CI/CD
-- Android Studio
-- Gradle
-- Jira
-- Postman
-- Agile / Scrum
 
 ---
 
-# 💼 Professional Experience & Engineering Work
+# 💼 Professional Experience
 
-## 🧠 AI Engineering & Application Development
+## 🧠 Partner – AI Engineer | NexTurn
 
-Experience contributing to AI-powered software solutions, combining intelligent capabilities with application and backend engineering.
+*October 2024 – Present | Remote*
 
-- Worked across AI engineering and application development responsibilities within project teams.
-- Developed and integrated Python-based backend services and REST APIs.
-- Worked on machine learning, NLP, and computer vision capabilities.
-- Integrated AI-powered functionality into application workflows.
-- Contributed to end-to-end development, from backend implementation to application integration.
+- Designed and deployed a production RAG platform over approximately **150K enterprise documents**, serving around **1,500 users** and reducing average information lookup time by approximately 40%.
+- Improved answer accuracy from approximately **72% to 87%** using hybrid search, cross-encoder reranking, and document-aware chunking.
+- Built multi-step LangGraph agents with tool calling and MCP integrations for document extraction, classification, and routing.
+- Established LLM evaluation and observability using Ragas, DeepEval, Langfuse, and LangSmith.
+- Reduced LLM cost per query by approximately **30%** and p95 latency from approximately 6 seconds to 3 seconds through semantic caching, prompt optimization, and model routing.
+- Fine-tuned open-source models using LoRA/PEFT and served them with vLLM.
+- Implemented prompt injection defense, PII redaction, and output guardrails.
+- Deployed containerized services to Kubernetes on AWS and Azure using Docker, GitHub Actions, Terraform, and MLflow.
+- Built Airflow and Spark ingestion pipelines for document parsing, embedding generation, and index refresh.
 
-## 🏥 CareSpace – AI-Powered Healthcare Application
+## 🤖 AI Software Engineer | GroundHog
 
-Healthcare platform focused on posture analysis and movement assessment.
+*June 2022 – December 2023 | Hyderabad, India*
 
-- Worked on camera-based posture and movement assessment using MediaPipe.
-- Developed Android application features using Kotlin and modern Android architecture.
-- Integrated computer vision capabilities into application workflows.
-- Implemented CameraX-based camera functionality.
-- Integrated Firebase services and REST APIs.
-- Contributed to application performance, stability, and end-to-end feature delivery.
+- Developed machine learning features for fleet management and Safety LMS platforms using Python, PyTorch, and Scikit-learn.
+- Built an NLP classification model for compliance content, achieving approximately **88% accuracy**.
+- Developed computer vision prototypes using OpenCV for equipment and safety verification, achieving approximately **85% accuracy** on a held-out test set.
+- Created Pandas and SQL ETL pipelines that reduced report preparation time from approximately 2 days to 4 hours.
+- Deployed machine learning models through FastAPI, Docker, and Azure App Services.
+- Integrated AI services with web and Android clients through REST APIs and Firebase.
 
-## 🚚 SAWIN MobileTech – Workforce Management
+## 💻 Software Engineer | Brihaspathi Technologies Pvt Ltd
 
-Enterprise workforce management platform.
+*April 2019 – June 2022*
 
-- Developed Android modules using Kotlin and MVVM.
-- Implemented workforce scheduling and job management features.
-- Integrated payment workflows and backend APIs.
-- Contributed to offline synchronization and application performance.
-
-## ⛏ Fleet Management System – Mining Operations
-
-Enterprise application supporting mining and fleet operations.
-
-- Developed Android application features.
-- Integrated Google Maps and REST APIs.
-- Worked on offline-first application architecture.
-- Implemented workforce-related functionality and performance improvements.
+- Developed software applications and REST API integrations across multiple business domains.
+- Built Scikit-learn models for support ticket classification, achieving approximately **84% accuracy**.
+- Developed OpenCV and TensorFlow prototypes for ID and face verification, achieving approximately **80% accuracy** on a labeled sample.
+- Created Python data-preparation scripts that reduced dataset preparation effort by approximately **50%**.
+- Exposed machine learning models through Django and Flask REST APIs.
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured AI Engineering Projects
 
-## 🤖 AI & Intelligent Applications
+## 1. CareSpace AI – Computer Vision Platform for Movement & Mobility Assessment
 
-**CareSpace – AI Posture & Movement Assessment**
-- Computer Vision
-- MediaPipe
-- Android
-- Kotlin
-- CameraX
+<text>**Technologies:** Python · MediaPipe · OpenCV · PyTorch · TensorFlow Lite · FastAPI · PostgreSQL · Docker · Azure</text>
 
-**Enterprise Knowledge Assistant**
-- Generative AI
-- LLM Applications
-- RAG
-- Embeddings
-- Semantic Search
-- Python
+- Built pose-estimation pipelines using MediaPipe and OpenCV to calculate joint angles for range-of-motion and posture assessment.
+- Trained PyTorch exercise-classification and repetition-counting models using approximately **40K labeled frames**, achieving approximately **92% accuracy**.
+- Optimized models with TensorFlow Lite for approximately **25 FPS on-device inference**.
+- Developed FastAPI services for assessment scoring, progress analytics, and rehabilitation recommendations.
+- Deployed backend services on Azure.
 
-## 📱 Mobile & Software Engineering
+## 2. Enterprise Knowledge Assistant – RAG & Agentic Document Platform
 
-**Clean Architecture Android Compose**
+<text>**Technologies:** Python · LangChain · LangGraph · pgvector · Redis · Azure OpenAI · Claude · MCP · Ragas · Langfuse · Airflow · Kubernetes</text>
 
-[View Repository](https://github.com/surirohith77/clean-architecture-android-compose)
+- Architected a hybrid-search RAG platform with source citations over approximately **150K enterprise documents**.
+- Developed LangGraph agents with human-in-the-loop review for low-confidence outputs.
+- Improved answer accuracy from approximately **72% to 87%** through retrieval optimization and reranking.
+- Reduced LLM query costs by approximately **30%** using semantic caching and model routing.
+- Implemented evaluation, monitoring, and security controls for production LLM workflows.
 
-**Posture Movement Tracker**
+## 3. Automaid Staff – AI-Driven Workforce Scheduling & Demand Forecasting
 
-[View Repository](https://github.com/surirohith77/posture-movement-tracker-android)
+<text>**Technologies:** Python · Scikit-learn · XGBoost · Pandas · FastAPI · PostgreSQL · Airflow · MLflow · Docker</text>
+
+- Built a staff-to-job recommendation model using location, availability, and job history.
+- Reduced manual scheduling effort by approximately **30%**.
+- Developed an XGBoost booking-demand forecasting model achieving approximately **12% MAPE**.
+- Implemented automated Airflow retraining workflows.
+- Used MLflow for experiment tracking and FastAPI for model serving.
 
 ---
 
@@ -237,23 +268,22 @@ Enterprise application supporting mining and fleet operations.
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-- Post Graduate Certificate – Cloud Security, Sheridan College
-- Post Graduate Certificate – Internet of Things and Machine Intelligence, Sheridan College
-- Bachelor of Science – Computer Science, Andhra University
+- **Post Graduate Certificate – Cloud Security**, Sheridan College, Canada (January 2025 – August 2025)
+- **Bachelor of Science – Computer Science**, Andhra University, India (2014 – 2017)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced Machine Learning and AI Engineering
-- Production-ready Generative AI applications
-- RAG pipelines and AI agent architectures
+- Advanced Machine Learning and Deep Learning
+- Production AI system architecture
 - LLM evaluation and optimization
-- AI model deployment and integration
-- Cloud-native AI applications
-- Modern backend and distributed systems
+- Advanced RAG and agentic architectures
+- Model fine-tuning and inference optimization
+- MLOps and scalable AI deployment
+- AI security and responsible AI engineering
 
 ---
 
@@ -269,6 +299,6 @@ Enterprise application supporting mining and fleet operations.
 
 ### ⭐ Thanks for visiting my profile!
 
-**Building intelligent solutions through AI, software engineering, and innovation.**
+**Building intelligent systems through Artificial Intelligence and Machine Learning.**
 
 </p>
