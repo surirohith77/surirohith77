@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./images/banner_img.png" alt="Sai Rohith Suri Banner" width="100%" />
+  <img src="./images/Sai Rohith Suri — AI Engineer Banner.png" alt="Sai Rohith Suri Banner" width="100%" />
 </p>
 
 <div align="center">
